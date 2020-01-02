@@ -1,0 +1,115 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #e0dfda;
+}
+
+.head {
+  background-image: url("homepic4.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  height: 550px;
+}
+
+.head header li a {
+  color: grey;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.11rem;
+}
+
+.head header li a:hover {
+  color: black;
+  font-size: 1.12rem;
+}
+
+.head header .book {
+  background-color: gray;
+  color: white;
+}
+
+.head .section1 {
+  text-align: center;
+  margin-top: 13%;
+  color: white;
+}
+
+.head .section1 h1 {
+  font-family: "Gelasio", serif;
+  font-size: 5rem;
+}
+
+.head .section1 h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.container {
+  background-color: white;
+  text-align: center;
+}
+
+.container .date {
+  padding: 1.5rem 0 1.5rem 0;
+}
+
+.container .cont {
+  padding-bottom: 1rem;
+}
+
+.container .col-sm-12 img {
+  width: 100%;
+  height: 200px;
+}
+
+.container .con2 {
+  padding-top: 3rem;
+}
+
+.pad {
+  padding: 0;
+}
+
+.gridcolor {
+  background-color: #5d989c;
+  color: white;
+}
+
+.line {
+  margin: auto;
+  width: 50px;
+  border-bottom: 2px solid orange;
+}
+
+.section2 {
+  margin-top: 3rem;
+}
+
+.section2 .con2 {
+  padding-bottom: 1.7rem;
+}
+
+.section2 .tes img {
+  height: 400px;
+}
+
+.section2 h3 {
+  padding-top: 2rem;
+}
+
+.section2 .gridcolor p {
+  padding: 4rem 1rem 0 1rem;
+}
+
+.foot {
+  padding-top: 3rem;
+  background-color: #e0dfda;
+}
+
+.foot ul li {
+  list-style: none;
+  padding: 0.5rem 0 0.5rem 0;
+}
+
+.foot .hd {
+  font-size: 1.2rem;
+}
+/*# sourceMappingURL=home.css.map */
